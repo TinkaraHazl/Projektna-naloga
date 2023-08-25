@@ -8,14 +8,20 @@ def read_file_to_string(directory, filename):
     with open(path, 'r', encoding='utf-8') as f:
         return f.read()
 
-def page_to_ads(page_content):
+def page_to_blocks(page_content):
     """Funkcija poišče posamezne oglase, ki se nahajajo v spletni strani in
     vrne seznam oglasov."""
-    vzorec = r'<tr><td align = "center" class = "fooinfo" >.+?</tr >'
-    return re.findall(vzorec, page_content, flags=re.DOTALL)
+    blocks = []
+    vzorec = re.compile(
+        r'<tr> <td align = "center" class = "fooinfo" >' r'.+?' r'</tr >', 
+        flags=re.DOTALL,
+        )
+    for najdba in vzorec.finditer(page_content):
+        blocks.append(page_content[najdba.start() : najdba.end()])
+    return blocks
 
 
-def get_dict_from_ad_block(block):
+def get_dict_from_block(block):
     """Funkcija iz niza za posamezen oglasni blok izlušči podatke o imenu, ceni
     in opisu ter vrne slovar, ki vsebuje ustrezne podatke."""
     vzorec_st = r'< td align = "center" class = "fooinfo" >  # (\d{4}) </td>'

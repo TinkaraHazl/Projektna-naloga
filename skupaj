@@ -1,5 +1,6 @@
+import pridobitev
 import shranjevanje
-import podatki
+import obdelava
 import os
 
 def main(redownload=True, reparse=True):

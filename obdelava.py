@@ -1,6 +1,5 @@
 import re
 import os
-import traceback
 
 
 def read_file_to_string(directory, filename):

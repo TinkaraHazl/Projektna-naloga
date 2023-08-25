@@ -18,7 +18,7 @@ def write_csv(fieldnames, rows, directory, filename):
     return
 
 
-def write_pokemon_csv(ads, directory, filename):
+def write_pokemon_to_csv(ads, directory, filename):
     """Funkcija vse podatke iz parametra "ads" zapiše v csv datoteko podano s
     parametroma "directory"/"filename". Funkcija predpostavi, da so ključi vseh
     slovarjev parametra ads enaki in je seznam ads neprazen."""

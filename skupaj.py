@@ -14,7 +14,7 @@ def main(redownload=True, reparse=True):
     if redownload or not os.path.exists(pot_html):
         # če zahtevamo ponovno nalaganje ali pa html_datoteka
         # še ne obstaja, jo naložimo s spleta
-        pridobitev.save_frontpage(pridobitev.frontpage_url, pridobitev.directory, pridobitev.frontpage_filename)
+        pridobitev.shrani_frontpage(pridobitev.url, pridobitev.directory, pridobitev.frontpage_filename)
     else:
         print(f"Datoteka {pot_html} že obstaja")
     csv_mapa = "obdelani_podatki"
@@ -23,7 +23,9 @@ def main(redownload=True, reparse=True):
     if reparse or not os.path.exists(pot_csv):
         # če zahtevamo ponovno obdelavo ali pa csv_datoteka
         # še ne obstaja, jo ustvarimo (ponovno)
-        vsi_slovarji = obdelava.ads_from_file(pridobitev.frontpage_filename, pridobitev.directory)
-        shranjevanje.write_pokemon_to_csv(vsi_slovarji, "obdelani_podatki", pridobitev.csv_filename)
+        vsi_slovarji = obdelava.seznam_slovarjev(pridobitev.frontpage_filename, pridobitev.directory)
+        shranjevanje.pokemoni_v_csv(vsi_slovarji, "obdelani_podatki", pridobitev.csv_filename)
     else:
         print(f"Datoteka {pot_csv} že obstaja")
+
+main(False, False)

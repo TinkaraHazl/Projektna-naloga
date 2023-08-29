@@ -5,12 +5,9 @@ import os
 url = 'https://www.serebii.net/pokemon/nationalpokedex.shtml'
 directory = 'podatki'
 frontpage_filename = 'glavna.html'
-csv_filename = 'pokemoni.csv'
+csv_files = ['pokemoni.csv', 'types.csv', 'abilities.csv']
 
 def url_v_niz(url):
-    """Funkcija kot argument sprejme niz in poskusi vrniti vsebino te spletne
-    strani kot niz. V primeru, da med izvajanje pride do napake vrne None.
-    """
     try:
         # del kode, ki morda sproži napako
         vsebina = requests.get(url)
@@ -24,10 +21,6 @@ def url_v_niz(url):
         print(f"Prišlo je do spodnje napake:\n{traceback.format_exc()}")
 
 def niz_v_datoteko(text, directory, filename):
-    """Funkcija zapiše vrednost parametra "text" v novo ustvarjeno datoteko
-    locirano v "directory"/"filename", ali povozi obstoječo. V primeru, da je
-    niz "directory" prazen datoteko ustvari v trenutni mapi.
-    """
     os.makedirs(directory, exist_ok=True)
     path = os.path.join(directory, filename)
     with open(path, 'w', encoding='utf-8') as file_out:
@@ -36,8 +29,6 @@ def niz_v_datoteko(text, directory, filename):
 
 
 def shrani_frontpage(url, directory, filename):
-    """Funkcija shrani vsebino spletne strani na naslovu "page" v datoteko
-    "directory"/"filename"."""
     html_strani = url_v_niz(url)
     niz_v_datoteko(html_strani, directory, filename)
 

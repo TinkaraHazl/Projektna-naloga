@@ -20,7 +20,7 @@ def slovar_iz_bloka(blok):
     vzorec_attack = r'<td align="center" class="fooinfo">\d{1,3}</td>\n\s*<td align="center" class="fooinfo">(\d{1,3})</td>'
     vzorec_defense = r'<td align="center" class="fooinfo">\d{1,3}</td>\n\s*<td align="center" class="fooinfo">\d{1,3}</td>\n\s*<td align="center" class="fooinfo">(\d{1,3})</td>'
     vzorec_sp_attack = r'<td align="center" class="fooinfo">\d{1,3}</td>\n\s*<td align="center" class="fooinfo">\d{1,3}</td>\n\s*<td align="center" class="fooinfo">\d{1,3}</td>\n\s*<td align="center" class="fooinfo">(\d{1,3})</td>'
-    vzorec_sp_defence = r'<td align="center" class="fooinfo">\d{1,3}</td>\n\s*<td align="center" class="fooinfo">\d{1,3}</td>\n\s*<td align="center" class="fooinfo">\d{1,3}</td>\n\s*<td align="center" class="fooinfo">\d{1,3}</td>\n\s*<td align="center" class="fooinfo">(\d{1,3})</td>'
+    vzorec_sp_defense = r'<td align="center" class="fooinfo">\d{1,3}</td>\n\s*<td align="center" class="fooinfo">\d{1,3}</td>\n\s*<td align="center" class="fooinfo">\d{1,3}</td>\n\s*<td align="center" class="fooinfo">\d{1,3}</td>\n\s*<td align="center" class="fooinfo">(\d{1,3})</td>'
     vzorec_speed = r'<td align="center" class="fooinfo">\d{1,3}</td>\n\s*<td align="center" class="fooinfo">\d{1,3}</td>\n\s*<td align="center" class="fooinfo">\d{1,3}</td>\n\s*<td align="center" class="fooinfo">\d{1,3}</td>\n\s*<td align="center" class="fooinfo">\d{1,3}</td>\n\s*<td align="center" class="fooinfo">(\d{1,3})</td>'
     try:
         stevilo = re.search(vzorec_st, blok).group(1)
@@ -31,13 +31,13 @@ def slovar_iz_bloka(blok):
         attack = re.search(vzorec_attack, blok).group(1)
         defense = re.search(vzorec_defense, blok).group(1)
         sp_attack = re.search(vzorec_sp_attack, blok).group(1)
-        sp_defence = re.search(vzorec_sp_defence, blok).group(1)
+        sp_defense = re.search(vzorec_sp_defense, blok).group(1)
         speed = re.search(vzorec_speed, blok).group(1)
     except AttributeError:
         print(f"Nepopolni vzorci pri (čudnem?) vzorcu\n{blok}")
         raise
     return {"id": int(stevilo), "pokemon": pokemon, 'type': type, 'ability': ability, 'HP': int(HP), 'attack': int(attack), 
-            'defense': int(defense), 'special attack': int(sp_attack), 'special defence': int(sp_defence), 'speed' : int(speed)}
+            'defense': int(defense), 'special attack': int(sp_attack), 'special defense': int(sp_defense), 'speed' : int(speed)}
 
 def slovarji_glavno(filename, directory):
     vsebina = datoteka_v_niz(directory, filename)

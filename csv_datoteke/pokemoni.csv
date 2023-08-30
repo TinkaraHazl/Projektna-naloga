@@ -1,4 +1,4 @@
-id,pokemon,type,ability,HP,attack,defense,special attack,special defence,speed
+id,pokemon,HP,attack,defense,special attack,special defense,speed
 1,Bulbasaur,45,49,49,65,65,45
 2,Ivysaur,60,62,63,80,80,60
 3,Venusaur,80,82,83,100,100,80

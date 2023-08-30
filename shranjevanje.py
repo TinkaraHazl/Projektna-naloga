@@ -3,7 +3,7 @@ import csv
 def pokemoni_v_csv(slovarji, filename):
     with open(filename, 'w') as f:
         pisatelj = csv.writer(f)
-        pisatelj.writerow(['id', 'pokemon', 'type', 'ability', 'HP',
+        pisatelj.writerow(['id', 'pokemon', 'HP',
                            'attack', 'defense', 'special attack', 'special defence', 'speed'])
         for slovar in slovarji:
             pisatelj.writerow([slovar['id'], slovar['pokemon'], slovar['HP'],

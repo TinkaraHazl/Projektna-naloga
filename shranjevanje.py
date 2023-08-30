@@ -4,11 +4,11 @@ def pokemoni_v_csv(slovarji, filename):
     with open(filename, 'w') as f:
         pisatelj = csv.writer(f)
         pisatelj.writerow(['id', 'pokemon', 'HP',
-                           'attack', 'defense', 'special attack', 'special defence', 'speed'])
+                           'attack', 'defense', 'special attack', 'special defense', 'speed'])
         for slovar in slovarji:
             pisatelj.writerow([slovar['id'], slovar['pokemon'], slovar['HP'],
                                slovar['attack'], slovar['defense'], slovar['special attack'],
-                               slovar['special defence'], slovar['speed']])
+                               slovar['special defense'], slovar['speed']])
 
 def abilities_v_csv(slovarji, filename):
     with open(filename, 'w') as f:

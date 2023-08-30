@@ -36,7 +36,7 @@ def slovar_iz_bloka(blok):
     except AttributeError:
         print(f"Nepopolni vzorci pri (čudnem?) vzorcu\n{blok}")
         raise
-    return {"id": int(stevilo), "pokemon": pokemon, "type": type, "ability": ability, 'HP': int(HP), 'attack': int(attack), 
+    return {"id": int(stevilo), "pokemon": pokemon, 'type': type, 'ability': ability, 'HP': int(HP), 'attack': int(attack), 
             'defense': int(defense), 'special attack': int(sp_attack), 'special defence': int(sp_defence), 'speed' : int(speed)}
 
 def slovarji_glavno(filename, directory):
@@ -46,23 +46,3 @@ def slovarji_glavno(filename, directory):
     for blok in bloki:
         slovarji.append(slovar_iz_bloka(blok))
     return slovarji
-
-def slovarji_type(filename, directory):
-    vsebina = datoteka_v_niz(directory, filename)
-    vzorec_type = r'<a href="/pokemon/type/(\w+?)"><img src="/pokedex-bw/type/\w+?.gif" border="0" /></a>'
-    types = list(set(re.findall(vzorec_type, vsebina)))
-    slovarji_types = []
-    for i, t in enumerate(types):
-        slovar = {'id': i + 1, 'type': t}
-        slovarji_types.append(slovar)
-    return slovarji_types
-
-def slovarji_ability(filename, directory):
-    vsebina = datoteka_v_niz(directory, filename)
-    vzorec_ability = re.compile(r'<a href="/abilitydex/.+?.shtml">(.+?)\s?</a>')
-    abilities = list(set(re.findall(vzorec_ability, vsebina)))
-    slovarji_abilities = []
-    for i, a in enumerate(abilities):
-        slovar = {'id' : i + 1, 'ability' : a}
-        slovarji_abilities.append(slovar)
-    return slovarji_abilities

@@ -1,18 +1,27 @@
-import os
 import csv
 
-def napisi_csv(fieldnames, rows, directory, filename):
-    os.makedirs(directory, exist_ok=True)
-    path = os.path.join(directory, filename)
-    with open(path, 'w', encoding='utf-8', newline='') as csv_file:
-        pisatelj = csv.DictWriter(csv_file, fieldnames=fieldnames)
-        pisatelj.writeheader()
-        for row in rows:
-            pisatelj.writerow(row)
-    return
+def pokemoni_v_csv(slovarji, filename):
+    with open(filename, 'w') as f:
+        pisatelj = csv.writer(f)
+        pisatelj.writerow(['id', 'pokemon', 'type', 'ability', 'HP',
+                           'attack', 'defense', 'special attack', 'special defence', 'speed'])
+        for slovar in slovarji:
+            pisatelj.writerow([slovar['id'], slovar['pokemon'], slovar['HP'],
+                               slovar['attack'], slovar['defense'], slovar['special attack'],
+                               slovar['special defence'], slovar['speed']])
 
+def abilities_v_csv(slovarji, filename):
+    with open(filename, 'w') as f:
+        pisatelj = csv.writer(f)
+        pisatelj.writerow(["pokemon", "ability"])
+        for slovar in slovarji:
+            for ability in slovar["ability"]:
+                pisatelj.writerow([slovar["pokemon"], ability])
 
-def pokemoni_v_csv(slovarji, directory, filename):
-    assert slovarji and (all(slovar.keys() == slovarji[0].keys() for slovar in slovarji))
-    imena_stolpcev = slovarji[0]
-    napisi_csv(imena_stolpcev, slovarji, directory, filename)
+def types_v_csv(slovarji, filename):
+    with open(filename, 'w') as f:
+        pisatelj = csv.writer(f)
+        pisatelj.writerow(["pokemon", "type"])
+        for slovar in slovarji:
+            for ability in slovar["type"]:
+                pisatelj.writerow([slovar["pokemon"], ability])

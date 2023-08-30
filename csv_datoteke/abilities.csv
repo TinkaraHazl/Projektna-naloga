@@ -1,0 +1,2384 @@
+pokemon,ability
+Bulbasaur,Overgrow
+Bulbasaur,Chlorophyll
+Ivysaur,Overgrow
+Ivysaur,Chlorophyll
+Venusaur,Overgrow
+Venusaur,Chlorophyll
+Charmander,Blaze
+Charmander,Solar Power
+Charmeleon,Blaze
+Charmeleon,Solar Power
+Charizard,Blaze
+Charizard,Solar Power
+Squirtle,Torrent
+Squirtle,Rain Dish
+Wartortle,Torrent
+Wartortle,Rain Dish
+Blastoise,Torrent
+Blastoise,Rain Dish
+Caterpie,Shield Dust
+Caterpie,Run Away
+Metapod,Shed Skin
+Butterfree,Compoundeyes
+Butterfree,Tinted Lens
+Weedle,Shield Dust
+Weedle,Run Away
+Kakuna,Shed Skin
+Beedrill,Swarm
+Beedrill,Sniper
+Pidgey,Keen Eye
+Pidgey,Tangled Feet
+Pidgey,Big Pecks
+Pidgeotto,Keen Eye
+Pidgeotto,Tangled Feet
+Pidgeotto,Big Pecks
+Pidgeot,Keen Eye
+Pidgeot,Tangled Feet
+Pidgeot,Big Pecks
+Rattata,Run Away
+Rattata,Guts
+Rattata,Hustle
+Raticate,Run Away
+Raticate,Guts
+Raticate,Hustle
+Spearow,Keen Eye
+Spearow,Sniper
+Fearow,Keen Eye
+Fearow,Sniper
+Ekans,Intimidate
+Ekans,Shed Skin
+Ekans,Unnerve
+Arbok,Intimidate
+Arbok,Shed Skin
+Arbok,Unnerve
+Pikachu,Static
+Pikachu,Lightning Rod
+Raichu,Static
+Raichu,Lightning Rod
+Sandshrew,Sand Veil
+Sandshrew,Sand Rush
+Sandslash,Sand Veil
+Sandslash,Sand Rush
+Nidoran&#9792;,Poison Point
+Nidoran&#9792;,Rivalry
+Nidoran&#9792;,Hustle
+Nidorina,Poison Point
+Nidorina,Rivalry
+Nidorina,Hustle
+Nidoqueen,Poison Point
+Nidoqueen,Rivalry
+Nidoqueen,Sheer Force
+Nidoran&#9794;,Poison Point
+Nidoran&#9794;,Rivalry
+Nidoran&#9794;,Hustle
+Nidorino,Poison Point
+Nidorino,Rivalry
+Nidorino,Hustle
+Nidoking,Poison Point
+Nidoking,Rivalry
+Nidoking,Sheer Force
+Clefairy,Cute Charm
+Clefairy,Magic Guard
+Clefairy,Friend Guard
+Clefable,Cute Charm
+Clefable,Magic Guard
+Clefable,Unaware
+Vulpix,Flash Fire
+Vulpix,Drought
+Ninetales,Flash Fire
+Ninetales,Drought
+Jigglypuff,Cute Charm
+Jigglypuff,Competitive
+Jigglypuff,Friend Guard
+Wigglytuff,Cute Charm
+Wigglytuff,Competitive
+Wigglytuff,Frisk
+Zubat,Inner Focus
+Zubat,Infiltrator
+Golbat,Inner Focus
+Golbat,Infiltrator
+Oddish,Chlorophyll
+Oddish,Run Away
+Gloom,Chlorophyll
+Gloom,Stench
+Vileplume,Chlorophyll
+Vileplume,Effect Spore
+Paras,Effect Spore
+Paras,Dry Skin
+Paras,Damp
+Parasect,Effect Spore
+Parasect,Dry Skin
+Parasect,Damp
+Venonat,Compoundeyes
+Venonat,Tinted Lens
+Venonat,Run Away
+Venomoth,Shield Dust
+Venomoth,Tinted Lens
+Venomoth,Wonder Skin
+Diglett,Sand Veil
+Diglett,Arena Trap
+Diglett,Sand Force
+Dugtrio,Sand Veil
+Dugtrio,Arena Trap
+Dugtrio,Sand Force
+Meowth,Pickup
+Meowth,Technician
+Meowth,Unnerve
+Persian,Limber
+Persian,Technician
+Persian,Unnerve
+Psyduck,Damp
+Psyduck,Cloud Nine
+Psyduck,Swift Swim
+Golduck,Damp
+Golduck,Cloud Nine
+Golduck,Swift Swim
+Mankey,Vital Spirit
+Mankey,Anger Point
+Mankey,Defiant
+Primeape,Vital Spirit
+Primeape,Anger Point
+Primeape,Defiant
+Growlithe,Intimidate
+Growlithe,Flash Fire
+Growlithe,Justified
+Arcanine,Intimidate
+Arcanine,Flash Fire
+Arcanine,Justified
+Poliwag,Water Absorb
+Poliwag,Damp
+Poliwag,Swift Swim
+Poliwhirl,Water Absorb
+Poliwhirl,Damp
+Poliwhirl,Swift Swim
+Poliwrath,Water Absorb
+Poliwrath,Damp
+Poliwrath,Swift Swim
+Abra,Synchronize
+Abra,Inner Focus
+Abra,Magic Guard
+Kadabra,Synchronize
+Kadabra,Inner Focus
+Kadabra,Magic Guard
+Alakazam,Synchronize
+Alakazam,Inner Focus
+Alakazam,Magic Guard
+Machop,Guts
+Machop,No Guard
+Machop,Steadfast
+Machoke,Guts
+Machoke,No Guard
+Machoke,Steadfast
+Machamp,Guts
+Machamp,No Guard
+Machamp,Steadfast
+Bellsprout,Chlorophyll
+Bellsprout,Gluttony
+Weepinbell,Chlorophyll
+Weepinbell,Gluttony
+Victreebel,Chlorophyll
+Victreebel,Gluttony
+Tentacool,Clear Body
+Tentacool,Liquid Ooze
+Tentacool,Rain Dish
+Tentacruel,Clear Body
+Tentacruel,Liquid Ooze
+Tentacruel,Rain Dish
+Geodude,Rock Head
+Geodude,Sturdy
+Geodude,Sand Veil
+Graveler,Rock Head
+Graveler,Sturdy
+Graveler,Sand Veil
+Golem,Rock Head
+Golem,Sturdy
+Golem,Sand Veil
+Ponyta,Run Away
+Ponyta,Flash Fire
+Ponyta,Flame Body
+Rapidash,Run Away
+Rapidash,Flash Fire
+Rapidash,Flame Body
+Slowpoke,Oblivious
+Slowpoke,Own Tempo
+Slowpoke,Regenerator
+Slowbro,Oblivious
+Slowbro,Own Tempo
+Slowbro,Regenerator
+Magnemite,Magnet Pull
+Magnemite,Sturdy
+Magnemite,Analytic
+Magneton,Magnet Pull
+Magneton,Sturdy
+Magneton,Analytic
+Farfetch'd,Keen Eye
+Farfetch'd,Inner Focus
+Farfetch'd,Defiant
+Doduo,Run Away
+Doduo,Early Bird
+Doduo,Tangled Feet
+Dodrio,Run Away
+Dodrio,Early Bird
+Dodrio,Tangled Feet
+Seel,Thick Fat
+Seel,Hydration
+Seel,Ice Body
+Dewgong,Thick Fat
+Dewgong,Hydration
+Dewgong,Ice Body
+Grimer,Stench
+Grimer,Sticky Hold
+Grimer,Poison Touch
+Muk,Stench
+Muk,Sticky Hold
+Muk,Poison Touch
+Shellder,Shell Armor
+Shellder,Skill Link
+Shellder,Overcoat
+Cloyster,Shell Armor
+Cloyster,Skill Link
+Cloyster,Overcoat
+Gastly,Levitate
+Haunter,Levitate
+Gengar,Cursed Body
+Onix,Rock Head
+Onix,Sturdy
+Onix,Weak Armor
+Drowzee,Insomnia
+Drowzee,Forewarn
+Drowzee,Inner Focus
+Hypno,Insomnia
+Hypno,Forewarn
+Hypno,Inner Focus
+Krabby,Hyper Cutter
+Krabby,Shell Armor
+Krabby,Sheer Force
+Kingler,Hyper Cutter
+Kingler,Shell Armor
+Kingler,Sheer Force
+Voltorb,Soundproof
+Voltorb,Static
+Voltorb,Aftermath
+Electrode,Soundproof
+Electrode,Static
+Electrode,Aftermath
+Exeggcute,Chlorophyll
+Exeggcute,Harvest
+Exeggutor,Chlorophyll
+Exeggutor,Harvest
+Cubone,Rock Head
+Cubone,Lightning Rod
+Cubone,Battle Armor
+Marowak,Rock Head
+Marowak,Lightning Rod
+Marowak,Battle Armor
+Hitmonlee,Limber
+Hitmonlee,Reckless
+Hitmonlee,Unburden
+Hitmonchan,Keen Eye
+Hitmonchan,Iron Fist
+Hitmonchan,Inner Focus
+Lickitung,Own Tempo
+Lickitung,Oblivious
+Lickitung,Cloud Nine
+Koffing,Levitate
+Koffing,Neutralizing Gas
+Koffing,Stench
+Weezing,Levitate
+Weezing,Neutralizing Gas
+Weezing,Stench
+Rhyhorn,Lightning Rod
+Rhyhorn,Rock Head
+Rhyhorn,Reckless
+Rhydon,Lightning Rod
+Rhydon,Rock Head
+Rhydon,Reckless
+Chansey,Natural Cure
+Chansey,Serene Grace
+Chansey,Healer
+Tangela,Chlorophyll
+Tangela,Leaf Guard
+Tangela,Regenerator
+Kangaskhan,Early Bird
+Kangaskhan,Scrappy
+Kangaskhan,Inner Focus
+Horsea,Swift Swim
+Horsea,Sniper
+Horsea,Damp
+Seadra,Poison Point
+Seadra,Sniper
+Seadra,Damp
+Goldeen,Swift Swim
+Goldeen,Water Veil
+Goldeen,Lightning Rod
+Seaking,Swift Swim
+Seaking,Water Veil
+Seaking,Lightning Rod
+Staryu,Illuminate
+Staryu,Natural Cure
+Staryu,Analytic
+Starmie,Illuminate
+Starmie,Natural Cure
+Starmie,Analytic
+Mr. Mime,Soundproof
+Mr. Mime,Filter
+Mr. Mime,Technician
+Scyther,Swarm
+Scyther,Technician
+Scyther,Steadfast
+Jynx,Oblivious
+Jynx,Forewarn
+Jynx,Dry Skin
+Electabuzz,Static
+Electabuzz,Vital Spirit
+Magmar,Flame Body
+Magmar,Vital Spirit
+Pinsir,Hyper Cutter
+Pinsir,Mold Breaker
+Pinsir,Moxie
+Tauros,Intimidate
+Tauros,Anger Point
+Tauros,Sheer Force
+Magikarp,Swift Swim
+Magikarp,Rattled
+Gyarados,Intimidate
+Gyarados,Moxie
+Lapras,Water Absorb
+Lapras,Shell Armor
+Lapras,Hydration
+Ditto,Limber
+Ditto,Imposter
+Eevee,Run Away
+Eevee,Adaptability
+Eevee,Anticipation
+Vaporeon,Water Absorb
+Vaporeon,Hydration
+Jolteon,Volt Absorb
+Jolteon,Quick Feet
+Flareon,Flash Fire
+Flareon,Guts
+Porygon,Trace
+Porygon,Download
+Porygon,Analytic
+Omanyte,Swift Swim
+Omanyte,Shell Armor
+Omanyte,Weak Armor
+Omastar,Swift Swim
+Omastar,Shell Armor
+Omastar,Weak Armor
+Kabuto,Swift Swim
+Kabuto,Battle Armor
+Kabuto,Weak Armor
+Kabutops,Swift Swim
+Kabutops,Battle Armor
+Kabutops,Weak Armor
+Aerodactyl,Rock Head
+Aerodactyl,Pressure
+Aerodactyl,Unnerve
+Snorlax,Immunity
+Snorlax,Thick Fat
+Snorlax,Gluttony
+Articuno,Pressure
+Articuno,Snow Cloak
+Zapdos,Pressure
+Zapdos,Static
+Moltres,Pressure
+Moltres,Flame Body
+Dratini,Shed Skin
+Dratini,Marvel Scale
+Dragonair,Shed Skin
+Dragonair,Marvel Scale
+Dragonite,Inner Focus
+Dragonite,Multiscale
+Mewtwo,Pressure
+Mewtwo,Unnerve
+Mew,Synchronize
+Chikorita,Overgrow
+Chikorita,Leaf Guard
+Bayleef,Overgrow
+Bayleef,Leaf Guard
+Meganium,Overgrow
+Meganium,Leaf Guard
+Cyndaquil,Blaze
+Cyndaquil,Flash Fire
+Quilava,Blaze
+Quilava,Flash Fire
+Typhlosion,Blaze
+Typhlosion,Flash Fire
+Totodile,Torrent
+Totodile,Sheer Force
+Croconaw,Torrent
+Croconaw,Sheer Force
+Feraligatr,Torrent
+Feraligatr,Sheer Force
+Sentret,Run Away
+Sentret,Keen Eye
+Sentret,Frisk
+Furret,Run Away
+Furret,Keen Eye
+Furret,Frisk
+Hoothoot,Insomnia
+Hoothoot,Keen Eye
+Hoothoot,Tinted Lens
+Noctowl,Insomnia
+Noctowl,Keen Eye
+Noctowl,Tinted Lens
+Ledyba,Swarm
+Ledyba,Early Bird
+Ledyba,Rattled
+Ledian,Swarm
+Ledian,Early Bird
+Ledian,Iron Fist
+Spinarak,Swarm
+Spinarak,Insomnia
+Spinarak,Sniper
+Ariados,Swarm
+Ariados,Insomnia
+Ariados,Sniper
+Crobat,Inner Focus
+Crobat,Infiltrator
+Chinchou,Volt Absorb
+Chinchou,Illuminate
+Chinchou,Water Absorb
+Lanturn,Volt Absorb
+Lanturn,Illuminate
+Lanturn,Water Absorb
+Pichu,Static
+Pichu,Lightning Rod
+Cleffa,Cute Charm
+Cleffa,Magic Guard
+Cleffa,Friend Guard
+Igglybuff,Cute Charm
+Igglybuff,Competitive
+Igglybuff,Friend Guard
+Togepi,Hustle
+Togepi,Serene Grace
+Togepi,Super Luck
+Togetic,Hustle
+Togetic,Serene Grace
+Togetic,Super Luck
+Natu,Synchronize
+Natu,Early Bird
+Natu,Magic Bounce
+Xatu,Synchronize
+Xatu,Early Bird
+Xatu,Magic Bounce
+Mareep,Static
+Mareep,Plus
+Flaaffy,Static
+Flaaffy,Plus
+Ampharos,Static
+Ampharos,Plus
+Bellossom,Chlorophyll
+Bellossom,Healer
+Marill,Thick Fat
+Marill,Huge Power
+Marill,Sap Sipper
+Azumarill,Thick Fat
+Azumarill,Huge Power
+Azumarill,Sap Sipper
+Sudowoodo,Sturdy
+Sudowoodo,Rock Head
+Sudowoodo,Rattled
+Politoed,Water Absorb
+Politoed,Damp
+Politoed,Drizzle
+Hoppip,Chlorophyll
+Hoppip,Leaf Guard
+Hoppip,Infiltrator
+Skiploom,Chlorophyll
+Skiploom,Leaf Guard
+Skiploom,Infiltrator
+Jumpluff,Chlorophyll
+Jumpluff,Leaf Guard
+Jumpluff,Infiltrator
+Aipom,Run Away
+Aipom,Pickup
+Aipom,Skill Link
+Sunkern,Chlorophyll
+Sunkern,Solar Power
+Sunkern,Early Bird
+Sunflora,Chlorophyll
+Sunflora,Solar Power
+Sunflora,Early Bird
+Yanma,Speed Boost
+Yanma,Compoundeyes
+Yanma,Frisk
+Wooper,Damp
+Wooper,Water Absorb
+Wooper,Unaware
+Quagsire,Damp
+Quagsire,Water Absorb
+Quagsire,Unaware
+Espeon,Synchronize
+Espeon,Magic Bounce
+Umbreon,Synchronize
+Umbreon,Inner Focus
+Murkrow,Insomnia
+Murkrow,Super Luck
+Murkrow,Prankster
+Slowking,Oblivious
+Slowking,Own Tempo
+Slowking,Regenerator
+Misdreavus,Levitate
+Unown,Levitate
+Wobbuffet,Shadow Tag
+Wobbuffet,Telepathy
+Girafarig,Inner Focus
+Girafarig,Early Bird
+Girafarig,Sap Sipper
+Pineco,Sturdy
+Pineco,Overcoat
+Forretress,Sturdy
+Forretress,Overcoat
+Dunsparce,Serene Grace
+Dunsparce,Run Away
+Dunsparce,Rattled
+Gligar,Hyper Cutter
+Gligar,Sand Veil
+Gligar,Immunity
+Steelix,Rock Head
+Steelix,Sturdy
+Steelix,Sheer Force
+Snubbull,Intimidate
+Snubbull,Run Away
+Snubbull,Rattled
+Granbull,Intimidate
+Granbull,Quick Feet
+Granbull,Rattled
+Qwilfish,Poison Point
+Qwilfish,Swift Swim
+Qwilfish,Intimidate
+Scizor,Swarm
+Scizor,Technician
+Scizor,Light Metal
+Shuckle,Sturdy
+Shuckle,Gluttony
+Shuckle,Contrary
+Heracross,Swarm
+Heracross,Guts
+Heracross,Moxie
+Sneasel,Inner Focus
+Sneasel,Keen Eye
+Sneasel,Pickpocket
+Teddiursa,Pickup
+Teddiursa,Quick Feet
+Teddiursa,Honey Gather
+Ursaring,Guts
+Ursaring,Quick Feet
+Ursaring,Unnerve
+Slugma,Magma Armor
+Slugma,Flame Body
+Slugma,Weak Armor
+Magcargo,Magma Armor
+Magcargo,Flame Body
+Magcargo,Weak Armor
+Swinub,Oblivious
+Swinub,Snow Cloak
+Swinub,Thick Fat
+Piloswine,Oblivious
+Piloswine,Snow Cloak
+Piloswine,Thick Fat
+Corsola,Hustle
+Corsola,Natural Cure
+Corsola,Regenerator
+Remoraid,Hustle
+Remoraid,Sniper
+Remoraid,Moody
+Octillery,Suction Cups
+Octillery,Sniper
+Octillery,Moody
+Delibird,Vital Spirit
+Delibird,Hustle
+Delibird,Insomnia
+Mantine,Swift Swim
+Mantine,Water Absorb
+Mantine,Water Veil
+Skarmory,Keen Eye
+Skarmory,Sturdy
+Skarmory,Weak Armor
+Houndour,Early Bird
+Houndour,Flash Fire
+Houndour,Unnerve
+Houndoom,Early Bird
+Houndoom,Flash Fire
+Houndoom,Unnerve
+Kingdra,Swift Swim
+Kingdra,Sniper
+Kingdra,Damp
+Phanpy,Pickup
+Phanpy,Sand Veil
+Donphan,Sturdy
+Donphan,Sand Veil
+Porygon2,Trace
+Porygon2,Download
+Porygon2,Analytic
+Stantler,Intimidate
+Stantler,Frisk
+Stantler,Sap Sipper
+Smeargle,Own Tempo
+Smeargle,Technician
+Smeargle,Moody
+Tyrogue,Guts
+Tyrogue,Steadfast
+Tyrogue,Vital Spirit
+Hitmontop,Intimidate
+Hitmontop,Technician
+Hitmontop,Steadfast
+Smoochum,Oblivious
+Smoochum,Forewarn
+Smoochum,Hydration
+Elekid,Static
+Elekid,Vital Spirit
+Magby,Flame Body
+Magby,Vital Spirit
+Miltank,Thick Fat
+Miltank,Scrappy
+Miltank,Sap Sipper
+Blissey,Natural Cure
+Blissey,Serene Grace
+Blissey,Healer
+Raikou,Pressure
+Raikou,Inner Focus
+Entei,Pressure
+Entei,Inner Focus
+Suicune,Pressure
+Suicune,Inner Focus
+Larvitar,Guts
+Larvitar,Sand Veil
+Pupitar,Shed Skin
+Tyranitar,Sand Stream
+Tyranitar,Unnerve
+Lugia,Pressure
+Lugia,Multiscale
+Ho-Oh,Pressure
+Ho-Oh,Regenerator
+Celebi,Natural Cure
+Treecko,Overgrow
+Treecko,Unburden
+Grovyle,Overgrow
+Grovyle,Unburden
+Sceptile,Overgrow
+Sceptile,Unburden
+Torchic,Blaze
+Torchic,Speed Boost
+Combusken,Blaze
+Combusken,Speed Boost
+Blaziken,Blaze
+Blaziken,Speed Boost
+Mudkip,Torrent
+Mudkip,Damp
+Marshtomp,Torrent
+Marshtomp,Damp
+Swampert,Torrent
+Swampert,Damp
+Poochyena,Run Away
+Poochyena,Quick Feet
+Poochyena,Rattled
+Mightyena,Intimidate
+Mightyena,Quick Feet
+Mightyena,Moxie
+Zigzagoon,Pickup
+Zigzagoon,Gluttony
+Zigzagoon,Quick Feet
+Linoone,Pickup
+Linoone,Gluttony
+Linoone,Quick Feet
+Wurmple,Shield Dust
+Wurmple,Run Away
+Silcoon,Shed Skin
+Beautifly,Swarm
+Beautifly,Rivalry
+Cascoon,Shed Skin
+Dustox,Shield Dust
+Dustox,Compoundeyes
+Lotad,Swift Swim
+Lotad,Rain Dish
+Lotad,Own Tempo
+Lombre,Swift Swim
+Lombre,Rain Dish
+Lombre,Own Tempo
+Ludicolo,Swift Swim
+Ludicolo,Rain Dish
+Ludicolo,Own Tempo
+Seedot,Chlorophyll
+Seedot,Early Bird
+Seedot,Pickpocket
+Nuzleaf,Chlorophyll
+Nuzleaf,Early Bird
+Nuzleaf,Pickpocket
+Shiftry,Chlorophyll
+Shiftry,Early Bird
+Shiftry,Pickpocket
+Taillow,Guts
+Taillow,Scrappy
+Swellow,Guts
+Swellow,Scrappy
+Wingull,Keen Eye
+Wingull,Hydration
+Wingull,Rain Dish
+Pelipper,Keen Eye
+Pelipper,Drizzle
+Pelipper,Rain Dish
+Ralts,Synchronize
+Ralts,Trace
+Ralts,Telepathy
+Kirlia,Synchronize
+Kirlia,Trace
+Kirlia,Telepathy
+Gardevoir,Synchronize
+Gardevoir,Trace
+Gardevoir,Telepathy
+Surskit,Swift Swim
+Surskit,Rain Dish
+Masquerain,Intimidate
+Masquerain,Unnerve
+Shroomish,Effect Spore
+Shroomish,Poison Heal
+Shroomish,Quick Feet
+Breloom,Effect Spore
+Breloom,Poison Heal
+Breloom,Technician
+Slakoth,Truant
+Vigoroth,Vital Spirit
+Slaking,Truant
+Nincada,Compoundeyes
+Nincada,Run Away
+Ninjask,Speed Boost
+Ninjask,Infiltrator
+Shedinja,Wonder Guard
+Whismur,Soundproof
+Whismur,Rattled
+Loudred,Soundproof
+Loudred,Scrappy
+Exploud,Soundproof
+Exploud,Scrappy
+Makuhita,Thick Fat
+Makuhita,Guts
+Makuhita,Sheer Force
+Hariyama,Thick Fat
+Hariyama,Guts
+Hariyama,Sheer Force
+Azurill,Thick Fat
+Azurill,Huge Power
+Azurill,Sap Sipper
+Nosepass,Sturdy
+Nosepass,Magnet Pull
+Nosepass,Sand Force
+Skitty,Cute Charm
+Skitty,Normalize
+Skitty,Wonder Skin
+Delcatty,Cute Charm
+Delcatty,Normalize
+Delcatty,Wonder Skin
+Sableye,Keen Eye
+Sableye,Stall
+Sableye,Prankster
+Mawile,Hyper Cutter
+Mawile,Intimidate
+Mawile,Sheer Force
+Aron,Sturdy
+Aron,Rock Head
+Aron,Heavy Metal
+Lairon,Sturdy
+Lairon,Rock Head
+Lairon,Heavy Metal
+Aggron,Sturdy
+Aggron,Rock Head
+Aggron,Heavy Metal
+Meditite,Pure Power
+Meditite,Telepathy
+Medicham,Pure Power
+Medicham,Telepathy
+Electrike,Static
+Electrike,Lightning Rod
+Electrike,Minus
+Manectric,Static
+Manectric,Lightning Rod
+Manectric,Minus
+Plusle,Plus
+Plusle,Lightning Rod
+Minun,Minus
+Minun,Volt Absorb
+Volbeat,Illuminate
+Volbeat,Swarm
+Volbeat,Prankster
+Illumise,Oblivious
+Illumise,Tinted Lens
+Illumise,Prankster
+Roselia,Natural Cure
+Roselia,Poison Point
+Roselia,Leaf Guard
+Gulpin,Liquid Ooze
+Gulpin,Sticky Hold
+Gulpin,Gluttony
+Swalot,Liquid Ooze
+Swalot,Sticky Hold
+Swalot,Gluttony
+Carvanha,Rough Skin
+Carvanha,Speed Boost
+Sharpedo,Rough Skin
+Sharpedo,Speed Boost
+Wailmer,Water Veil
+Wailmer,Oblivious
+Wailmer,Pressure
+Wailord,Water Veil
+Wailord,Oblivious
+Wailord,Pressure
+Numel,Oblivious
+Numel,Simple
+Numel,Own Tempo
+Camerupt,Magma Armor
+Camerupt,Solid Rock
+Camerupt,Anger Point
+Torkoal,White Smoke
+Torkoal,Drought
+Torkoal,Shell Armor
+Spoink,Thick Fat
+Spoink,Own Tempo
+Spoink,Gluttony
+Grumpig,Thick Fat
+Grumpig,Own Tempo
+Grumpig,Gluttony
+Spinda,Own Tempo
+Spinda,Tangled Feet
+Spinda,Contrary
+Trapinch,Hyper Cutter
+Trapinch,Arena Trap
+Trapinch,Sheer Force
+Vibrava,Levitate
+Flygon,Levitate
+Cacnea,Sand Veil
+Cacnea,Water Absorb
+Cacturne,Sand Veil
+Cacturne,Water Absorb
+Swablu,Natural Cure
+Swablu,Cloud Nine
+Altaria,Natural Cure
+Altaria,Cloud Nine
+Zangoose,Immunity
+Zangoose,Toxic Boost
+Seviper,Shed Skin
+Seviper,Infiltrator
+Lunatone,Levitate
+Solrock,Levitate
+Barboach,Oblivious
+Barboach,Anticipation
+Barboach,Hydration
+Whiscash,Oblivious
+Whiscash,Anticipation
+Whiscash,Hydration
+Corphish,Hyper Cutter
+Corphish,Shell Armor
+Corphish,Adaptability
+Crawdaunt,Hyper Cutter
+Crawdaunt,Shell Armor
+Crawdaunt,Adaptability
+Baltoy,Levitate
+Claydol,Levitate
+Lileep,Suction Cups
+Lileep,Storm Drain
+Cradily,Suction Cups
+Cradily,Storm Drain
+Anorith,Battle Armor
+Anorith,Swift Swim
+Armaldo,Battle Armor
+Armaldo,Swift Swim
+Feebas,Swift Swim
+Feebas,Oblivious
+Feebas,Adaptability
+Milotic,Marvel Scale
+Milotic,Competitive
+Milotic,Cute Charm
+Castform,Forecast
+Kecleon,Color Change
+Kecleon,Protean
+Shuppet,Insomnia
+Shuppet,Frisk
+Shuppet,Cursed Body
+Banette,Insomnia
+Banette,Frisk
+Banette,Cursed Body
+Duskull,Levitate
+Duskull,Frisk
+Dusclops,Pressure
+Dusclops,Frisk
+Tropius,Chlorophyll
+Tropius,Solar Power
+Tropius,Harvest
+Chimecho,Levitate
+Absol,Pressure
+Absol,Super Luck
+Absol,Justified
+Wynaut,Shadow Tag
+Wynaut,Telepathy
+Snorunt,Inner Focus
+Snorunt,Ice Body
+Snorunt,Moody
+Glalie,Inner Focus
+Glalie,Ice Body
+Glalie,Moody
+Spheal,Thick Fat
+Spheal,Ice Body
+Spheal,Oblivious
+Sealeo,Thick Fat
+Sealeo,Ice Body
+Sealeo,Oblivious
+Walrein,Thick Fat
+Walrein,Ice Body
+Walrein,Oblivious
+Clamperl,Shell Armor
+Clamperl,Rattled
+Huntail,Swift Swim
+Huntail,Water Veil
+Gorebyss,Swift Swim
+Gorebyss,Hydration
+Relicanth,Swift Swim
+Relicanth,Rock Head
+Relicanth,Sturdy
+Luvdisc,Swift Swim
+Luvdisc,Hydration
+Bagon,Rock Head
+Bagon,Sheer Force
+Shelgon,Rock Head
+Shelgon,Overcoat
+Salamence,Intimidate
+Salamence,Moxie
+Beldum,Clear Body
+Beldum,Light Metal
+Metang,Clear Body
+Metang,Light Metal
+Metagross,Clear Body
+Metagross,Light Metal
+Regirock,Clear Body
+Regirock,Sturdy
+Regice,Clear Body
+Regice,Ice Body
+Registeel,Clear Body
+Registeel,Light Metal
+Latias,Levitate
+Latios,Levitate
+Kyogre,Drizzle
+Groudon,Drought
+Rayquaza,Air Lock
+Jirachi,Serene Grace
+Deoxys,Pressure
+Turtwig,Overgrow
+Turtwig,Shell Armor
+Grotle,Overgrow
+Grotle,Shell Armor
+Torterra,Overgrow
+Torterra,Shell Armor
+Chimchar,Blaze
+Chimchar,Iron Fist
+Monferno,Blaze
+Monferno,Iron Fist
+Infernape,Blaze
+Infernape,Iron Fist
+Piplup,Torrent
+Piplup,Defiant
+Prinplup,Torrent
+Prinplup,Defiant
+Empoleon,Torrent
+Empoleon,Defiant
+Starly,Keen Eye
+Starly,Reckless
+Staravia,Intimidate
+Staravia,Reckless
+Staraptor,Intimidate
+Staraptor,Reckless
+Bidoof,Simple
+Bidoof,Unaware
+Bidoof,Moody
+Bibarel,Simple
+Bibarel,Unaware
+Bibarel,Moody
+Kricketot,Shed Skin
+Kricketot,Run Away
+Kricketune,Swarm
+Kricketune,Technician
+Shinx,Rivalry
+Shinx,Intimidate
+Shinx,Guts
+Luxio,Rivalry
+Luxio,Intimidate
+Luxio,Guts
+Luxray,Rivalry
+Luxray,Intimidate
+Luxray,Guts
+Budew,Natural Cure
+Budew,Poison Point
+Budew,Leaf Guard
+Roserade,Natural Cure
+Roserade,Poison Point
+Roserade,Technician
+Cranidos,Mold Breaker
+Cranidos,Sheer Force
+Rampardos,Mold Breaker
+Rampardos,Sheer Force
+Shieldon,Sturdy
+Shieldon,Soundproof
+Bastiodon,Sturdy
+Bastiodon,Soundproof
+Burmy,Shed Skin
+Burmy,Overcoat
+Wormadam,Anticipation
+Wormadam,Overcoat
+Mothim,Swarm
+Mothim,Tinted Lens
+Combee,Honey Gather
+Combee,Hustle
+Vespiquen,Pressure
+Vespiquen,Unnerve
+Pachirisu,Run Away
+Pachirisu,Pickup
+Pachirisu,Volt Absorb
+Buizel,Swift Swim
+Buizel,Water Veil
+Floatzel,Swift Swim
+Floatzel,Water Veil
+Cherubi,Chlorophyll
+Cherrim,Flower Gift
+Shellos,Sticky Hold
+Shellos,Storm Drain
+Shellos,Sand Force
+Gastrodon,Sticky Hold
+Gastrodon,Storm Drain
+Gastrodon,Sand Force
+Ambipom,Technician
+Ambipom,Pickup
+Ambipom,Skill Link
+Drifloon,Aftermath
+Drifloon,Unburden
+Drifloon,Flare Boost
+Drifblim,Aftermath
+Drifblim,Unburden
+Drifblim,Flare Boost
+Buneary,Run Away
+Buneary,Klutz
+Buneary,Limber
+Lopunny,Cute Charm
+Lopunny,Klutz
+Lopunny,Limber
+Mismagius,Levitate
+Honchkrow,Insomnia
+Honchkrow,Super Luck
+Honchkrow,Moxie
+Glameow,Limber
+Glameow,Own Tempo
+Glameow,Keen Eye
+Purugly,Thick Fat
+Purugly,Own Tempo
+Purugly,Defiant
+Chingling,Levitate
+Stunky,Stench
+Stunky,Aftermath
+Stunky,Keen Eye
+Skuntank,Stench
+Skuntank,Aftermath
+Skuntank,Keen Eye
+Bronzor,Levitate
+Bronzor,Heatproof
+Bronzor,Heavy Metal
+Bronzong,Levitate
+Bronzong,Heatproof
+Bronzong,Heavy Metal
+Bonsly,Sturdy
+Bonsly,Rock Head
+Bonsly,Rattled
+Mime Jr.,Soundproof
+Mime Jr.,Filter
+Mime Jr.,Technician
+Happiny,Natural Cure
+Happiny,Serene Grace
+Happiny,Friend Guard
+Chatot,Keen Eye
+Chatot,Tangled Feet
+Chatot,Big Pecks
+Spiritomb,Pressure
+Spiritomb,Infiltrator
+Gible,Sand Veil
+Gible,Rough Skin
+Gabite,Sand Veil
+Gabite,Rough Skin
+Garchomp,Sand Veil
+Garchomp,Rough Skin
+Munchlax,Pickup
+Munchlax,Thick Fat
+Munchlax,Gluttony
+Riolu,Steadfast
+Riolu,Inner Focus
+Riolu,Prankster
+Lucario,Steadfast
+Lucario,Inner Focus
+Lucario,Justified
+Hippopotas,Sand Stream
+Hippopotas,Sand Force
+Hippowdon,Sand Stream
+Hippowdon,Sand Force
+Skorupi,Battle Armor
+Skorupi,Sniper
+Skorupi,Keen Eye
+Drapion,Battle Armor
+Drapion,Sniper
+Drapion,Keen Eye
+Croagunk,Anticipation
+Croagunk,Dry Skin
+Croagunk,Poison Touch
+Toxicroak,Anticipation
+Toxicroak,Dry Skin
+Toxicroak,Poison Touch
+Carnivine,Levitate
+Finneon,Swift Swim
+Finneon,Storm Drain
+Finneon,Water Veil
+Lumineon,Swift Swim
+Lumineon,Storm Drain
+Lumineon,Water Veil
+Mantyke,Swift Swim
+Mantyke,Water Absorb
+Mantyke,Water Veil
+Snover,Snow Warning
+Snover,Soundproof
+Abomasnow,Snow Warning
+Abomasnow,Soundproof
+Weavile,Pressure
+Weavile,Pickpocket
+Magnezone,Magnet Pull
+Magnezone,Sturdy
+Magnezone,Analytic
+Lickilicky,Own Tempo
+Lickilicky,Oblivious
+Lickilicky,Cloud Nine
+Rhyperior,Lightning Rod
+Rhyperior,Solid Rock
+Rhyperior,Reckless
+Tangrowth,Chlorophyll
+Tangrowth,Leaf Guard
+Tangrowth,Regenerator
+Electivire,Motor Drive
+Electivire,Vital Spirit
+Magmortar,Flame Body
+Magmortar,Vital Spirit
+Togekiss,Hustle
+Togekiss,Serene Grace
+Togekiss,Super Luck
+Yanmega,Speed Boost
+Yanmega,Tinted Lens
+Yanmega,Frisk
+Leafeon,Leaf Guard
+Leafeon,Chlorophyll
+Glaceon,Snow Cloak
+Glaceon,Ice Body
+Gliscor,Hyper Cutter
+Gliscor,Sand Veil
+Gliscor,Poison Heal
+Mamoswine,Oblivious
+Mamoswine,Snow Cloak
+Mamoswine,Thick Fat
+Porygon-Z,Adaptability
+Porygon-Z,Download
+Porygon-Z,Analytic
+Gallade,Steadfast
+Gallade,Justified
+Probopass,Sturdy
+Probopass,Magnet Pull
+Probopass,Sand Force
+Dusknoir,Pressure
+Dusknoir,Frisk
+Froslass,Snow Cloak
+Froslass,Cursed Body
+Rotom,Levitate
+Uxie,Levitate
+Mesprit,Levitate
+Azelf,Levitate
+Dialga,Pressure
+Dialga,Telepathy
+Palkia,Pressure
+Palkia,Telepathy
+Heatran,Flash Fire
+Heatran,Flame Body
+Regigigas,Slow Start
+Giratina,Pressure
+Giratina,Telepathy
+Cresselia,Levitate
+Phione,Hydration
+Manaphy,Hydration
+Darkrai,Bad Dreams
+Shaymin,Natural Cure
+Arceus,Multitype
+Victini,Victory Star
+Snivy,Overgrow
+Snivy,Contrary
+Servine,Overgrow
+Servine,Contrary
+Serperior,Overgrow
+Serperior,Contrary
+Tepig,Blaze
+Tepig,Thick Fat
+Pignite,Blaze
+Pignite,Thick Fat
+Emboar,Blaze
+Emboar,Reckless
+Oshawott,Torrent
+Oshawott,Shell Armor
+Dewott,Torrent
+Dewott,Shell Armor
+Samurott,Torrent
+Samurott,Shell Armor
+Patrat,Run Away
+Patrat,Keen Eye
+Patrat,Analytic
+Watchog,Illuminate
+Watchog,Keen Eye
+Watchog,Analytic
+Lillipup,Vital Spirit
+Lillipup,Pickup
+Lillipup,Run Away
+Herdier,Intimidate
+Herdier,Sand Rush
+Herdier,Scrappy
+Stoutland,Intimidate
+Stoutland,Sand Rush
+Stoutland,Scrappy
+Purrloin,Limber
+Purrloin,Unburden
+Purrloin,Prankster
+Liepard,Limber
+Liepard,Unburden
+Liepard,Prankster
+Pansage,Gluttony
+Pansage,Overgrow
+Simisage,Gluttony
+Simisage,Overgrow
+Pansear,Gluttony
+Pansear,Blaze
+Simisear,Gluttony
+Simisear,Blaze
+Panpour,Gluttony
+Panpour,Torrent
+Simipour,Gluttony
+Simipour,Torrent
+Munna,Forewarn
+Munna,Synchronize
+Munna,Telepathy
+Musharna,Forewarn
+Musharna,Synchronize
+Musharna,Telepathy
+Pidove,Big Pecks
+Pidove,Super Luck
+Pidove,Rivalry
+Tranquill,Big Pecks
+Tranquill,Super Luck
+Tranquill,Rivalry
+Unfezant,Big Pecks
+Unfezant,Super Luck
+Unfezant,Rivalry
+Blitzle,Lightning Rod
+Blitzle,Motor Drive
+Blitzle,Sap Sipper
+Zebstrika,Lightning Rod
+Zebstrika,Motor Drive
+Zebstrika,Sap Sipper
+Roggenrola,Sturdy
+Roggenrola,Weak Armor
+Roggenrola,Sand Force
+Boldore,Sturdy
+Boldore,Weak Armor
+Boldore,Sand Force
+Gigalith,Sturdy
+Gigalith,Sand Stream
+Gigalith,Sand Force
+Woobat,Unaware
+Woobat,Klutz
+Woobat,Simple
+Swoobat,Unaware
+Swoobat,Klutz
+Swoobat,Simple
+Drilbur,Sand Rush
+Drilbur,Sand Force
+Drilbur,Mold Breaker
+Excadrill,Sand Rush
+Excadrill,Sand Force
+Excadrill,Mold Breaker
+Audino,Healer
+Audino,Regenerator
+Audino,Klutz
+Timburr,Guts
+Timburr,Sheer Force
+Timburr,Iron Fist
+Gurdurr,Guts
+Gurdurr,Sheer Force
+Gurdurr,Iron Fist
+Conkeldurr,Guts
+Conkeldurr,Sheer Force
+Conkeldurr,Iron Fist
+Tympole,Swift Swim
+Tympole,Hydration
+Tympole,Water Absorb
+Palpitoad,Swift Swim
+Palpitoad,Hydration
+Palpitoad,Water Absorb
+Seismitoad,Swift Swim
+Seismitoad,Poison Touch
+Seismitoad,Water Absorb
+Throh,Guts
+Throh,Inner Focus
+Throh,Mold Breaker
+Sawk,Sturdy
+Sawk,Inner Focus
+Sawk,Mold Breaker
+Sewaddle,Swarm
+Sewaddle,Chlorophyll
+Sewaddle,Overcoat
+Swadloon,Leaf Guard
+Swadloon,Chlorophyll
+Swadloon,Overcoat
+Leavanny,Swarm
+Leavanny,Chlorophyll
+Leavanny,Overcoat
+Venipede,Poison Point
+Venipede,Swarm
+Venipede,Speed Boost
+Whirlipede,Poison Point
+Whirlipede,Swarm
+Whirlipede,Speed Boost
+Scolipede,Poison Point
+Scolipede,Swarm
+Scolipede,Speed Boost
+Cottonee,Prankster
+Cottonee,Infiltrator
+Cottonee,Chlorophyll
+Whimsicott,Prankster
+Whimsicott,Infiltrator
+Whimsicott,Chlorophyll
+Petilil,Chlorophyll
+Petilil,Own Tempo
+Petilil,Leaf Guard
+Lilligant,Chlorophyll
+Lilligant,Own Tempo
+Lilligant,Leaf Guard
+Basculin,Reckless
+Basculin,Adaptability
+Basculin,Mold Breaker
+Sandile,Intimidate
+Sandile,Moxie
+Sandile,Anger Point
+Krokorok,Intimidate
+Krokorok,Moxie
+Krokorok,Anger Point
+Krookodile,Intimidate
+Krookodile,Moxie
+Krookodile,Anger Point
+Darumaka,Hustle
+Darumaka,Inner Focus
+Darmanitan,Sheer Force
+Darmanitan,Zen Mode
+Maractus,Water Absorb
+Maractus,Chlorophyll
+Maractus,Storm Drain
+Dwebble,Sturdy
+Dwebble,Shell Armor
+Dwebble,Weak Armor
+Crustle,Sturdy
+Crustle,Shell Armor
+Crustle,Weak Armor
+Scraggy,Shed Skin
+Scraggy,Moxie
+Scraggy,Intimidate
+Scrafty,Shed Skin
+Scrafty,Moxie
+Scrafty,Intimidate
+Sigilyph,Wonder Skin
+Sigilyph,Magic Guard
+Sigilyph,Tinted Lens
+Yamask,Mummy
+Cofagrigus,Mummy
+Tirtouga,Solid Rock
+Tirtouga,Sturdy
+Tirtouga,Swift Swim
+Carracosta,Solid Rock
+Carracosta,Sturdy
+Carracosta,Swift Swim
+Archen,Defeatist
+Archeops,Defeatist
+Trubbish,Stench
+Trubbish,Sticky Hold
+Trubbish,Aftermath
+Garbodor,Stench
+Garbodor,Weak Armor
+Garbodor,Aftermath
+Zorua,Illusion
+Zoroark,Illusion
+Minccino,Cute Charm
+Minccino,Technician
+Minccino,Skill Link
+Cinccino,Cute Charm
+Cinccino,Technician
+Cinccino,Skill Link
+Gothita,Frisk
+Gothita,Competitive
+Gothita,Shadow Tag
+Gothorita,Frisk
+Gothorita,Competitive
+Gothorita,Shadow Tag
+Gothitelle,Frisk
+Gothitelle,Competitive
+Gothitelle,Shadow Tag
+Solosis,Overcoat
+Solosis,Magic Guard
+Solosis,Regenerator
+Duosion,Overcoat
+Duosion,Magic Guard
+Duosion,Regenerator
+Reuniclus,Overcoat
+Reuniclus,Magic Guard
+Reuniclus,Regenerator
+Ducklett,Keen Eye
+Ducklett,Big Pecks
+Ducklett,Hydration
+Swanna,Keen Eye
+Swanna,Big Pecks
+Swanna,Hydration
+Vanillite,Ice Body
+Vanillite,Snow Cloak
+Vanillite,Weak Armor
+Vanillish,Ice Body
+Vanillish,Snow Cloak
+Vanillish,Weak Armor
+Vanilluxe,Ice Body
+Vanilluxe,Snow Warning
+Vanilluxe,Weak Armor
+Deerling,Chlorophyll
+Deerling,Sap Sipper
+Deerling,Serene Grace
+Sawsbuck,Chlorophyll
+Sawsbuck,Sap Sipper
+Sawsbuck,Serene Grace
+Emolga,Static
+Emolga,Motor Drive
+Karrablast,Swarm
+Karrablast,Shed Skin
+Karrablast,No Guard
+Escavalier,Swarm
+Escavalier,Shell Armor
+Escavalier,Overcoat
+Foongus,Effect Spore
+Foongus,Regenerator
+Amoonguss,Effect Spore
+Amoonguss,Regenerator
+Frillish,Water Absorb
+Frillish,Cursed Body
+Frillish,Damp
+Jellicent,Water Absorb
+Jellicent,Cursed Body
+Jellicent,Damp
+Alomomola,Healer
+Alomomola,Hydration
+Alomomola,Regenerator
+Joltik,Compoundeyes
+Joltik,Unnerve
+Joltik,Swarm
+Galvantula,Compoundeyes
+Galvantula,Unnerve
+Galvantula,Swarm
+Ferroseed,Iron Barbs
+Ferrothorn,Iron Barbs
+Ferrothorn,Anticipation
+Klink,Plus
+Klink,Minus
+Klink,Clear Body
+Klang,Plus
+Klang,Minus
+Klang,Clear Body
+Klinklang,Plus
+Klinklang,Minus
+Klinklang,Clear Body
+Tynamo,Levitate
+Eelektrik,Levitate
+Eelektross,Levitate
+Elgyem,Telepathy
+Elgyem,Synchronize
+Elgyem,Analytic
+Beheeyem,Telepathy
+Beheeyem,Synchronize
+Beheeyem,Analytic
+Litwick,Flash Fire
+Litwick,Flame Body
+Litwick,Infiltrator
+Lampent,Flash Fire
+Lampent,Flame Body
+Lampent,Infiltrator
+Chandelure,Flash Fire
+Chandelure,Flame Body
+Chandelure,Infiltrator
+Axew,Rivalry
+Axew,Mold Breaker
+Axew,Unnerve
+Fraxure,Rivalry
+Fraxure,Mold Breaker
+Fraxure,Unnerve
+Haxorus,Rivalry
+Haxorus,Mold Breaker
+Haxorus,Unnerve
+Cubchoo,Snow Cloak
+Cubchoo,Slush Rush
+Cubchoo,Rattled
+Beartic,Snow Cloak
+Beartic,Slush Rush
+Beartic,Swift Swim
+Cryogonal,Levitate
+Shelmet,Hydration
+Shelmet,Shell Armor
+Shelmet,Overcoat
+Accelgor,Hydration
+Accelgor,Sticky Hold
+Accelgor,Unburden
+Stunfisk,Static
+Stunfisk,Limber
+Stunfisk,Sand Veil
+Mienfoo,Inner Focus
+Mienfoo,Regenerator
+Mienfoo,Reckless
+Mienshao,Inner Focus
+Mienshao,Regenerator
+Mienshao,Reckless
+Druddigon,Rough Skin
+Druddigon,Sheer Force
+Druddigon,Mold Breaker
+Golett,Iron Fist
+Golett,Klutz
+Golett,No Guard
+Golurk,Iron Fist
+Golurk,Klutz
+Golurk,No Guard
+Pawniard,Defiant
+Pawniard,Inner Focus
+Pawniard,Pressure
+Bisharp,Defiant
+Bisharp,Inner Focus
+Bisharp,Pressure
+Bouffalant,Reckless
+Bouffalant,Sap Sipper
+Bouffalant,Soundproof
+Rufflet,Keen Eye
+Rufflet,Sheer Force
+Rufflet,Hustle
+Braviary,Keen Eye
+Braviary,Sheer Force
+Braviary,Defiant
+Vullaby,Big Pecks
+Vullaby,Overcoat
+Vullaby,Weak Armor
+Mandibuzz,Big Pecks
+Mandibuzz,Overcoat
+Mandibuzz,Weak Armor
+Heatmor,Gluttony
+Heatmor,Flash Fire
+Heatmor,White Smoke
+Durant,Swarm
+Durant,Hustle
+Durant,Truant
+Deino,Hustle
+Zweilous,Hustle
+Hydreigon,Levitate
+Larvesta,Flame Body
+Larvesta,Swarm
+Volcarona,Flame Body
+Volcarona,Swarm
+Cobalion,Justified
+Terrakion,Justified
+Virizion,Justified
+Tornadus,Prankster
+Tornadus,Defiant
+Thundurus,Prankster
+Thundurus,Defiant
+Reshiram,Turboblaze
+Zekrom,Teravolt
+Landorus,Sand Force
+Landorus,Sheer Force
+Kyurem,Pressure
+Keldeo,Justified
+Meloetta,Serene Grace
+Genesect,Download
+Chespin,Overgrow
+Chespin,Bulletproof
+Quilladin,Overgrow
+Quilladin,Bulletproof
+Chesnaught,Overgrow
+Chesnaught,Bulletproof
+Fennekin,Blaze
+Fennekin,Magician
+Braixen,Blaze
+Braixen,Magician
+Delphox,Blaze
+Delphox,Magician
+Froakie,Torrent
+Froakie,Protean
+Frogadier,Torrent
+Frogadier,Protean
+Greninja,Torrent
+Greninja,Protean
+Bunnelby,Pickup
+Bunnelby,Cheek Pouch
+Bunnelby,Huge Power
+Diggersby,Pickup
+Diggersby,Cheek Pouch
+Diggersby,Huge Power
+Fletchling,Big Pecks
+Fletchling,Gale Wings
+Fletchinder,Flame Body
+Fletchinder,Gale Wings
+Talonflame,Flame Body
+Talonflame,Gale Wings
+Scatterbug,Shield Dust
+Scatterbug,Compoundeyes
+Scatterbug,Friend Guard
+Spewpa,Shed Skin
+Spewpa,Friend Guard
+Vivillon,Shield Dust
+Vivillon,Compoundeyes
+Vivillon,Friend Guard
+Litleo,Rivalry
+Litleo,Unnerve
+Litleo,Moxie
+Pyroar,Rivalry
+Pyroar,Unnerve
+Pyroar,Moxie
+Flab&eacute;b&eacute;,Flower Veil
+Flab&eacute;b&eacute;,Symbiosis
+Floette,Flower Veil
+Floette,Symbiosis
+Florges,Flower Veil
+Florges,Symbiosis
+Skiddo,Sap Sipper
+Skiddo,Grass Pelt
+Gogoat,Sap Sipper
+Gogoat,Grass Pelt
+Pancham,Iron Fist
+Pancham,Mold Breaker
+Pancham,Scrappy
+Pangoro,Iron Fist
+Pangoro,Mold Breaker
+Pangoro,Scrappy
+Furfrou,Fur Coat
+Espurr,Keen Eye
+Espurr,Infiltrator
+Espurr,Own Tempo
+Meowstic,Keen Eye
+Meowstic,Infiltrator
+Meowstic,Prankster
+Honedge,No Guard
+Doublade,No Guard
+Aegislash,Stance Change
+Spritzee,Healer
+Spritzee,Aroma Veil
+Aromatisse,Healer
+Aromatisse,Aroma Veil
+Swirlix,Sweet Veil
+Swirlix,Unburden
+Slurpuff,Sweet Veil
+Slurpuff,Unburden
+Inkay,Contrary
+Inkay,Suction Cups
+Inkay,Infiltrator
+Malamar,Contrary
+Malamar,Suction Cups
+Malamar,Infiltrator
+Binacle,Tough Claws
+Binacle,Sniper
+Binacle,Pickpocket
+Barbaracle,Tough Claws
+Barbaracle,Sniper
+Barbaracle,Pickpocket
+Skrelp,Poison Point
+Skrelp,Poison Touch
+Skrelp,Adaptability
+Dragalge,Poison Point
+Dragalge,Poison Touch
+Dragalge,Adaptability
+Clauncher,Mega Launcher
+Clawitzer,Mega Launcher
+Helioptile,Dry Skin
+Helioptile,Sand Veil
+Helioptile,Solar Power
+Heliolisk,Dry Skin
+Heliolisk,Sand Veil
+Heliolisk,Solar Power
+Tyrunt,Strong Jaw
+Tyrunt,Sturdy
+Tyrantrum,Strong Jaw
+Tyrantrum,Rock Head
+Amaura,Refrigerate
+Amaura,Snow Warning
+Aurorus,Refrigerate
+Aurorus,Snow Warning
+Sylveon,Cute Charm
+Sylveon,Pixilate
+Hawlucha,Limber
+Hawlucha,Unburden
+Hawlucha,Mold Breaker
+Dedenne,Cheek Pouch
+Dedenne,Pickup
+Dedenne,Plus
+Carbink,Clear Body
+Carbink,Sturdy
+Goomy,Sap Sipper
+Goomy,Hydration
+Goomy,Gooey
+Sliggoo,Sap Sipper
+Sliggoo,Hydration
+Sliggoo,Gooey
+Goodra,Sap Sipper
+Goodra,Hydration
+Goodra,Gooey
+Klefki,Prankster
+Klefki,Magician
+Phantump,Natural Cure
+Phantump,Frisk
+Phantump,Harvest
+Trevenant,Natural Cure
+Trevenant,Frisk
+Trevenant,Harvest
+Pumpkaboo,Pickup
+Pumpkaboo,Frisk
+Pumpkaboo,Insomnia
+Gourgeist,Pickup
+Gourgeist,Frisk
+Gourgeist,Insomnia
+Bergmite,Own Tempo
+Bergmite,Ice Body
+Bergmite,Sturdy
+Avalugg,Own Tempo
+Avalugg,Ice Body
+Avalugg,Sturdy
+Noibat,Frisk
+Noibat,Infiltrator
+Noibat,Telepathy
+Noivern,Frisk
+Noivern,Infiltrator
+Noivern,Telepathy
+Xerneas,Fairy Aura
+Yveltal,Dark Aura
+Zygarde,Aura Break
+Diancie,Clear Body
+Hoopa,Magician
+Volcanion,Water Absorb
+Rowlet,Overgrow
+Rowlet,Long Reach
+Dartrix,Overgrow
+Dartrix,Long Reach
+Decidueye,Overgrow
+Decidueye,Long Reach
+Litten,Blaze
+Litten,Intimidate
+Torracat,Blaze
+Torracat,Intimidate
+Incineroar,Blaze
+Incineroar,Intimidate
+Popplio,Torrent
+Popplio,Liquid Voice
+Brionne,Torrent
+Brionne,Liquid Voice
+Primarina,Torrent
+Primarina,Liquid Voice
+Pikipek,Keen Eye
+Pikipek,Skill Link
+Pikipek,Pickup
+Trumbeak,Keen Eye
+Trumbeak,Skill Link
+Trumbeak,Pickup
+Toucannon,Keen Eye
+Toucannon,Skill Link
+Toucannon,Sheer Force
+Yungoos,Stakeout
+Yungoos,Strong Jaw
+Yungoos,Adaptability
+Gumshoos,Stakeout
+Gumshoos,Strong Jaw
+Gumshoos,Adaptability
+Grubbin,Swarm
+Charjabug,Battery
+Vikavolt,Levitate
+Crabrawler,Hyper Cutter
+Crabrawler,Iron Fist
+Crabrawler,Anger Point
+Crabominable,Hyper Cutter
+Crabominable,Iron Fist
+Crabominable,Anger Point
+Oricorio,Dancer
+Cutiefly,Honey Gather
+Cutiefly,Shield Dust
+Cutiefly,Sweet Veil
+Ribombee,Honey Gather
+Ribombee,Shield Dust
+Ribombee,Sweet Veil
+Rockruff,Keen Eye
+Rockruff,Vital Spirit
+Rockruff,Steadfast
+Lycanroc,Keen Eye
+Lycanroc,Sand Rush
+Lycanroc,Steadfast
+Wishiwashi,Schooling
+Mareanie,Merciless
+Mareanie,Limber
+Mareanie,Regenerator
+Toxapex,Merciless
+Toxapex,Limber
+Toxapex,Regenerator
+Mudbray,Own Tempo
+Mudbray,Stamina
+Mudbray,Inner Focus
+Mudsdale,Own Tempo
+Mudsdale,Stamina
+Mudsdale,Inner Focus
+Dewpider,Water Bubble
+Dewpider,Water Absorb
+Araquanid,Water Bubble
+Araquanid,Water Absorb
+Fomantis,Leaf Guard
+Fomantis,Contrary
+Lurantis,Leaf Guard
+Lurantis,Contrary
+Morelull,Illuminate
+Morelull,Effect Spore
+Morelull,Rain Dish
+Shiinotic,Illuminate
+Shiinotic,Effect Spore
+Shiinotic,Rain Dish
+Salandit,Corrosion
+Salandit,Oblivious
+Salazzle,Corrosion
+Salazzle,Oblivious
+Stufful,Fluffy
+Stufful,Klutz
+Stufful,Cute Charm
+Bewear,Fluffy
+Bewear,Klutz
+Bewear,Unnerve
+Bounsweet,Leaf Guard
+Bounsweet,Oblivious
+Bounsweet,Sweet Veil
+Steenee,Leaf Guard
+Steenee,Oblivious
+Steenee,Sweet Veil
+Tsareena,Leaf Guard
+Tsareena,Queenly Majesty
+Tsareena,Sweet Veil
+Comfey,Flower Veil
+Comfey,Triage
+Comfey,Natural Cure
+Oranguru,Inner Focus
+Oranguru,Telepathy
+Oranguru,Symbiosis
+Passimian,Receiver
+Passimian,Defiant
+Wimpod,Wimp Out
+Golisopod,Emergency Exit
+Sandygast,Water Compaction
+Sandygast,Sand Veil
+Palossand,Water Compaction
+Palossand,Sand Veil
+Pyukumuku,Innards Out
+Pyukumuku,Unaware
+Type: Null,Battle Armor
+Silvally,RKS System
+Minior,Shields Down
+Komala,Comatose
+Turtonator,Shell Armor
+Togedemaru,Iron Barbs
+Togedemaru,Lightning Rod
+Togedemaru,Sturdy
+Mimikyu,Disguise
+Bruxish,Dazzling
+Bruxish,Strong Jaw
+Bruxish,Wonder Skin
+Drampa,Berserk
+Drampa,Sap Sipper
+Drampa,Cloud Nine
+Dhelmise,Steelworker
+Jangmo-o,Bulletproof
+Jangmo-o,Soundproof
+Jangmo-o,Overcoat
+Hakamo-o,Bulletproof
+Hakamo-o,Soundproof
+Hakamo-o,Overcoat
+Kommo-o,Bulletproof
+Kommo-o,Soundproof
+Kommo-o,Overcoat
+Tapu Koko,Electric Surge
+Tapu Koko,Telepathy
+Tapu Lele,Psychic Surge
+Tapu Lele,Telepathy
+Tapu Bulu,Grassy Surge
+Tapu Bulu,Telepathy
+Tapu Fini,Misty Surge
+Tapu Fini,Telepathy
+Cosmog,Unaware
+Cosmoem,Sturdy
+Solgaleo,Full Metal Body
+Lunala,Shadow Shield
+Nihilego,Beast Boost
+Buzzwole,Beast Boost
+Pheromosa,Beast Boost
+Xurkitree,Beast Boost
+Celesteela,Beast Boost
+Kartana,Beast Boost
+Guzzlord,Beast Boost
+Necrozma,Prism Armor
+Magearna,Soul-Heart
+Marshadow,Technician
+Poipole,Beast Boost
+Naganadel,Beast Boost
+Stakataka,Beast Boost
+Blacephalon,Beast Boost
+Zeraora,Volt Absorb
+Meltan,Magnet Pull
+Melmetal,Iron Fist
+Grookey,Overgrow
+Grookey,Grassy Surge
+Thwackey,Overgrow
+Thwackey,Grassy Surge
+Rillaboom,Overgrow
+Rillaboom,Grassy Surge
+Scorbunny,Blaze
+Scorbunny,Libero
+Raboot,Blaze
+Raboot,Libero
+Cinderace,Blaze
+Cinderace,Libero
+Sobble,Torrent
+Sobble,Sniper
+Drizzile,Torrent
+Drizzile,Sniper
+Inteleon,Torrent
+Inteleon,Sniper
+Skwovet,Cheek Pouch
+Skwovet,Gluttony
+Greedent,Cheek Pouch
+Greedent,Gluttony
+Rookidee,Keen Eye
+Rookidee,Unnerve
+Rookidee,Big Pecks
+Corvisquire,Keen Eye
+Corvisquire,Unnerve
+Corvisquire,Big Pecks
+Corviknight,Pressure
+Corviknight,Unnerve
+Corviknight,Mirror Armor
+Blipbug,Swarm
+Blipbug,Compoundeyes
+Blipbug,Telepathy
+Dottler,Swarm
+Dottler,Compoundeyes
+Dottler,Telepathy
+Orbeetle,Swarm
+Orbeetle,Frisk
+Orbeetle,Telepathy
+Nickit,Run Away
+Nickit,Unburden
+Nickit,Stakeout
+Thievul,Run Away
+Thievul,Unburden
+Thievul,Stakeout
+Gossifleur,Cotton Down
+Gossifleur,Regenerator
+Gossifleur,Effect Spore
+Eldegoss,Cotton Down
+Eldegoss,Regenerator
+Eldegoss,Effect Spore
+Wooloo,Fluffy
+Wooloo,Run Away
+Wooloo,Bulletproof
+Dubwool,Fluffy
+Dubwool,Steadfast
+Dubwool,Bulletproof
+Chewtle,Strong Jaw
+Chewtle,Shell Armor
+Chewtle,Swift Swim
+Drednaw,Strong Jaw
+Drednaw,Shell Armor
+Drednaw,Swift Swim
+Yamper,Ball Fetch
+Yamper,Rattled
+Boltund,Strong Jaw
+Boltund,Competitive
+Rolycoly,Steam Engine
+Rolycoly,Heatproof
+Rolycoly,Flash Fire
+Carkol,Steam Engine
+Carkol,Flame Body
+Carkol,Flash Fire
+Coalossal,Steam Engine
+Coalossal,Flame Body
+Coalossal,Flash Fire
+Applin,Ripen
+Applin,Gluttony
+Applin,Bulletproof
+Flapple,Ripen
+Flapple,Gluttony
+Flapple,Hustle
+Appletun,Ripen
+Appletun,Gluttony
+Appletun,Thick Fat
+Silicobra,Sand Spit
+Silicobra,Shed Skin
+Silicobra,Sand Veil
+Sandaconda,Sand Spit
+Sandaconda,Shed Skin
+Sandaconda,Sand Veil
+Cramorant,Gulp Missile
+Arrokuda,Swift Swim
+Arrokuda,Propeller Tail
+Barraskewda,Swift Swim
+Barraskewda,Propeller Tail
+Toxel,Rattled
+Toxel,Static
+Toxel,Klutz
+Toxtricity,Punk Rock
+Toxtricity,Plus
+Toxtricity,Technician
+Sizzlipede,Flash Fire
+Sizzlipede,White Smoke
+Sizzlipede,Flame Body
+Centiskorch,Flash Fire
+Centiskorch,White Smoke
+Centiskorch,Flame Body
+Clobbopus,Limber
+Clobbopus,Technician
+Grapploct,Limber
+Grapploct,Technician
+Sinistea,Weak Armor
+Sinistea,Cursed Body
+Polteageist,Weak Armor
+Polteageist,Cursed Body
+Hatenna,Healer
+Hatenna,Anticipation
+Hatenna,Magic Bounce
+Hattrem,Healer
+Hattrem,Anticipation
+Hattrem,Magic Bounce
+Hatterene,Healer
+Hatterene,Anticipation
+Hatterene,Magic Bounce
+Impidimp,Prankster
+Impidimp,Frisk
+Impidimp,Pickpocket
+Morgrem,Prankster
+Morgrem,Frisk
+Morgrem,Pickpocket
+Grimmsnarl,Prankster
+Grimmsnarl,Frisk
+Grimmsnarl,Pickpocket
+Obstagoon,Reckless
+Obstagoon,Guts
+Obstagoon,Defiant
+Perrserker,Battle Armor
+Perrserker,Tough Claws
+Perrserker,Steely Spirit
+Cursola,Weak Armor
+Cursola,Perish Body
+Sirfetch'd,Steadfast
+Sirfetch'd,Scrappy
+Mr. Rime,Tangled Feet
+Mr. Rime,Screen Cleaner
+Mr. Rime,Ice Body
+Runerigus,Wandering Spirit
+Milcery,Sweet Veil
+Milcery,Aroma Veil
+Alcremie,Sweet Veil
+Alcremie,Aroma Veil
+Falinks,Battle Armor
+Falinks,Defiant
+Pincurchin,Lightning Rod
+Pincurchin,Electric Surge
+Snom,Shield Dust
+Snom,Ice Scales
+Frosmoth,Shield Dust
+Frosmoth,Ice Scales
+Stonjourner,Power Spot
+Eiscue,Ice Face
+Indeedee,Inner Focus
+Indeedee,Synchronize
+Indeedee,Psychic Surge
+Morpeko,Hunger Switch
+Cufant,Sheer Force
+Cufant,Heavy Metal
+Copperajah,Sheer Force
+Copperajah,Heavy Metal
+Dracozolt,Volt Absorb
+Dracozolt,Hustle
+Dracozolt,Sand Rush
+Arctozolt,Volt Absorb
+Arctozolt,Static
+Arctozolt,Slush Rush
+Dracovish,Water Absorb
+Dracovish,Strong Jaw
+Dracovish,Sand Rush
+Arctovish,Water Absorb
+Arctovish,Ice Body
+Arctovish,Slush Rush
+Duraludon,Light Metal
+Duraludon,Heavy Metal
+Duraludon,Stalwart
+Dreepy,Clear Body
+Dreepy,Infiltrator
+Dreepy,Cursed Body
+Drakloak,Clear Body
+Drakloak,Infiltrator
+Drakloak,Cursed Body
+Dragapult,Clear Body
+Dragapult,Infiltrator
+Dragapult,Cursed Body
+Zacian,Intrepid Sword
+Zamazenta,Dauntless Shield
+Eternatus,Pressure
+Kubfu,Inner Focus
+Urshifu,Unseen Fist
+Zarude,Leaf Guard
+Regieleki,Transistor
+Regidrago,Dragon's Maw
+Glastrier,Chilling Neigh
+Spectrier,Grim Neigh
+Calyrex,Unnerve
+Wyrdeer,Intimidate
+Wyrdeer,Frisk
+Wyrdeer,Sap Sipper
+Kleavor,Swarm
+Kleavor,Sheer Force
+Kleavor,Steadfast
+Ursaluna,Guts
+Ursaluna,Bulletproof
+Ursaluna,Unnerve
+Basculegion,Rattled
+Basculegion,Adaptability
+Basculegion,Mold Breaker
+Sneasler,Pressure
+Sneasler,Poison Touch
+Overqwil,Poison Point
+Overqwil,Swift Swim
+Overqwil,Intimidate
+Enamorus,Healer
+Enamorus,Contrary
+Sprigatito,Overgrow
+Sprigatito,Protean
+Floragato,Overgrow
+Floragato,Protean
+Meowscarada,Overgrow
+Meowscarada,Protean
+Fuecoco,Blaze
+Fuecoco,Unaware
+Crocalor,Blaze
+Crocalor,Unaware
+Skeledirge,Blaze
+Skeledirge,Unaware
+Quaxly,Torrent
+Quaxly,Moxie
+Quaxwell,Torrent
+Quaxwell,Moxie
+Quaquaval,Torrent
+Quaquaval,Moxie
+Lechonk,Aroma Veil
+Lechonk,Gluttony
+Lechonk,Thick Fat
+Oinkologne,Lingering Aroma
+Oinkologne,Gluttony
+Oinkologne,Thick Fat
+Tarountula,Insomnia
+Tarountula,Stakeout
+Spidops,Insomnia
+Spidops,Stakeout
+Nymble,Swarm
+Nymble,Tinted Lens
+Lokix,Swarm
+Lokix,Tinted Lens
+Pawmi,Static
+Pawmi,Natural Cure
+Pawmi,Iron Fist
+Pawmo,Volt Absorb
+Pawmo,Natural Cure
+Pawmo,Iron Fist
+Pawmot,Volt Absorb
+Pawmot,Natural Cure
+Pawmot,Iron Fist
+Tandemaus,Run Away
+Tandemaus,Pickup
+Tandemaus,Own Tempo
+Maushold,Friend Guard
+Maushold,Cheek Pouch
+Maushold,Technician
+Fidough,Own Tempo
+Fidough,Klutz
+Dachsbun,Well-Baked Body
+Dachsbun,Aroma Veil
+Smoliv,Early Bird
+Smoliv,Harvest
+Dolliv,Early Bird
+Dolliv,Harvest
+Arboliva,Seed Sower
+Arboliva,Harvest
+Squawkabilly,Intimidate
+Squawkabilly,Hustle
+Squawkabilly,Guts
+Nacli,Purifying Salt
+Nacli,Sturdy
+Nacli,Clear Body
+Naclstack,Purifying Salt
+Naclstack,Sturdy
+Naclstack,Clear Body
+Garganacl,Purifying Salt
+Garganacl,Sturdy
+Garganacl,Clear Body
+Charcadet,Flash Fire
+Charcadet,Flame Body
+Armarouge,Flash Fire
+Armarouge,Weak Armor
+Ceruledge,Flash Fire
+Ceruledge,Weak Armor
+Tadbulb,Own Tempo
+Tadbulb,Static
+Tadbulb,Damp
+Bellibolt,Electromorphosis
+Bellibolt,Static
+Bellibolt,Damp
+Wattrel,Wind Power
+Wattrel,Volt Absorb
+Wattrel,Competitive
+Kilowattrel,Wind Power
+Kilowattrel,Volt Absorb
+Kilowattrel,Competitive
+Maschiff,Intimidate
+Maschiff,Run Away
+Maschiff,Stakeout
+Mabosstiff,Intimidate
+Mabosstiff,Guard Dog
+Mabosstiff,Stakeout
+Shroodle,Unburden
+Shroodle,Pickpocket
+Shroodle,Prankster
+Grafaiai,Unburden
+Grafaiai,Poison Touch
+Grafaiai,Prankster
+Bramblin,Wind Rider
+Bramblin,Infiltrator
+Brambleghast,Wind Rider
+Brambleghast,Infiltrator
+Toedscool,Mycelium Might
+Toedscruel,Mycelium Might
+Klawf,Anger Shell
+Klawf,Shell Armor
+Klawf,Regenerator
+Capsakid,Chlorophyll
+Capsakid,Insomnia
+Capsakid,Klutz
+Scovillain,Chlorophyll
+Scovillain,Insomnia
+Scovillain,Moody
+Rellor,Compoundeyes
+Rellor,Shed Skin
+Rabsca,Synchronize
+Rabsca,Telepathy
+Flittle,Anticipation
+Flittle,Frisk
+Flittle,Speed Boost
+Espathra,Opportunist
+Espathra,Frisk
+Espathra,Speed Boost
+Tinkatink,Mold Breaker
+Tinkatink,Own Tempo
+Tinkatink,Pickpocket
+Tinkatuff,Mold Breaker
+Tinkatuff,Own Tempo
+Tinkatuff,Pickpocket
+Tinkaton,Mold Breaker
+Tinkaton,Own Tempo
+Tinkaton,Pickpocket
+Wiglett,Gooey
+Wiglett,Rattled
+Wiglett,Sand Veil
+Wugtrio,Gooey
+Wugtrio,Rattled
+Wugtrio,Sand Veil
+Bombirdier,Big Pecks
+Bombirdier,Keen Eye
+Bombirdier,Rocky Payload
+Finizen,Water Veil
+Palafin,Zero to Hero
+Varoom,Overcoat
+Varoom,Slow Start
+Revavroom,Overcoat
+Revavroom,Filter
+Cyclizar,Shed Skin
+Cyclizar,Regenerator
+Orthworm,Earth Eater
+Orthworm,Sand Veil
+Glimmet,Toxic Debris
+Glimmet,Corrosion
+Glimmora,Toxic Debris
+Glimmora,Corrosion
+Greavard,Pickup
+Greavard,Fluffy
+Houndstone,Sand Rush
+Houndstone,Fluffy
+Flamigo,Scrappy
+Flamigo,Tangled Feet
+Flamigo,Costar
+Cetoddle,Thick Fat
+Cetoddle,Snow Cloak
+Cetoddle,Sheer Force
+Cetitan,Thick Fat
+Cetitan,Slush Rush
+Cetitan,Sheer Force
+Veluza,Mold Breaker
+Veluza,Sharpness
+Dondozo,Unaware
+Dondozo,Oblivious
+Dondozo,Water Veil
+Tatsugiri,Commander
+Tatsugiri,Storm Drain
+Annihilape,Vital Spirit
+Annihilape,Inner Focus
+Annihilape,Defiant
+Clodsire,Poison Point
+Clodsire,Water Absorb
+Clodsire,Unaware
+Farigiraf,Cud Chew
+Farigiraf,Armor Tail
+Farigiraf,Sap Sipper
+Dudunsparce,Serene Grace
+Dudunsparce,Run Away
+Dudunsparce,Rattled
+Kingambit,Defiant
+Kingambit,Supreme Overlord
+Kingambit,Pressure
+Great Tusk,Protosynthesis
+Scream Tail,Protosynthesis
+Brute Bonnet,Protosynthesis
+Flutter Mane,Protosynthesis
+Slither Wing,Protosynthesis
+Sandy Shocks,Protosynthesis
+Iron Treads,Quark Drive
+Iron Bundle,Quark Drive
+Iron Hands,Quark Drive
+Iron Jugulis,Quark Drive
+Iron Moth,Quark Drive
+Iron Thorns,Quark Drive
+Frigibax,Thermal Exchange
+Frigibax,Ice Body
+Arctibax,Thermal Exchange
+Arctibax,Ice Body
+Baxcalibur,Thermal Exchange
+Baxcalibur,Ice Body
+Gimmighoul,Rattled
+Gholdengo,Good as Gold
+Wo-Chien,Tablets of Ruin
+Chien-Pao,Sword of Ruin
+Ting-Lu,Vessel of Ruin
+Chi-Yu,Beads of Ruin
+Roaring Moon,Protosynthesis
+Iron Valiant,Quark Drive
+Koraidon,Orichalcum Pulse
+Miraidon,Hadron Engine
+Walking Wake,Protosynthesis
+Iron Leaves,Quark Drive

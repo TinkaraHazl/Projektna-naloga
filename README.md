@@ -1,4 +1,4 @@
-# Projektna naloga
+# Projektna naloga - Analiziranje pokemonov
 
 Za svojo projektno nalogo sem izbrala analizo pokemonov, bitij iz franšize iger Pokemon. Podatke sem pridobila iz spletne strani [Serebii](https://www.serebii.net/pokemon/nationalpokedex.shtml).
 

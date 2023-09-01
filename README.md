@@ -15,6 +15,7 @@ Pridobila sem naslednje podatke, ki so podrobno razloženi v datoteki analiza.py
 -  defense
 -  special defense
 -  speed
+
 Tip in zmožnosti pokemona sta kategorijski lastnosti, ostale so numerične.
 podatke sem shranila v tri datoteke: pokemoni.csv, kjer se nahajajo id, ime in numerične lastnosti pokemona. V types.csv sem shranila zvezo med pokemoni in njihovimi tipi, v abilities.csv pa povezavo med pokemoni in njihovimi zmožnostimi.
 ## Analiza podatkov

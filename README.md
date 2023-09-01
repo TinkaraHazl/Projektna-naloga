@@ -1,6 +1,6 @@
 # Projektna naloga
 
-Za svojo projektno nalogo sem izbrala analizo pokemonov, bitij iz franšize iger Pokemon. Podatke sem pridobila iz spletne strani Serebii.
+Za svojo projektno nalogo sem izbrala analizo pokemonov, bitij iz franšize iger Pokemon. Podatke sem pridobila iz spletne strani [Serebii](https://www.serebii.net/pokemon/nationalpokedex.shtml).
 
 ## Pridobivanje podatkov
 V datotekah pridobitev.py, obravnavanje.py, shranjevanje. py in skupno.py se nahaja koda za pridobivanje podatkov in shranjevanje v csv datoteke, ki sem jih zbrala v mapi csv_datoteke.
